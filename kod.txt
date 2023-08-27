@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Şevval Barut</title>
+</head>
+<body>
+<h3>ŞEVVAL</h3>
+<hr>
+<center>
+<img src="/resimler/sevo.jpeg" alt="fotoğraf bulunamadı" width="200" height="200">
+<p>Şevval Barut</p>
+<h2>Şevvalito</h2>
+<br>
+<p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Hic nobis dolore sapiente reprehenderit consequuntur accusantium dolorum aut voluptas consequatur sint obcaecati ducimus porro, laudantium, unde at! Tempora voluptates veritatis commodi, nesciunt aperiam porro eius, accusamus nihil iure error fugiat pariatur. Nesciunt labore, sint placeat corporis sunt et natus? Reiciendis, laboriosam.</p>
+</center>
+Linkedin Hesabım: <a href="https://www.linkedin.com/in/%C5%9Fevval-barut/" target="_blank"> <img src="/resimler/indir.png" alt="icon bulunamadı" height="20" weight="20"> </a>
+</body>
+</html>
